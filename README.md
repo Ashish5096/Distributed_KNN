@@ -14,6 +14,10 @@ operation and then gives the final result.
 ## HOW TO RUN THE APPLICATION: USE THE FOLLOWING INSTRUCTION
 - **To compile all the files:** > `javac *.java`
 - **Running the server:** > `java KNN_Server` (This will start the server and waits for clients to connect.)
-- **Running the client:** > `java KNN_client` (You have to run at least 1client to run this application). Here we are running two client nodes.
-
 <img src="images/server.png">
+
+- **Running the client:** > `java KNN_client` (You have to run at least 1client to run this application). Here we are running two client nodes.
+<img src="images/client.png">
+
+- Now Enter each test case from test.csv file to get the result, or type “EXIT” to end the process.
+<img src="images/test.png">
