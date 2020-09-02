@@ -15,3 +15,5 @@ operation and then gives the final result.
 - **To compile all the files:** > `javac *.java`
 - **Running the server:** > `java KNN_Server` (This will start the server and waits for clients to connect.)
 - **Running the client:** > `java KNN_client` (You have to run at least 1client to run this application). Here we are running two client nodes.
+
+<img src="images/server.png">
